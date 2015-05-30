@@ -14,13 +14,13 @@ Hack Humanity is a new kind of organisation - a purpose-driven, emergent, autono
 
 ## What do we do?
 
-We address [Grand Challenges](1-what-we-do/challenges.md) in the world by taking on [Missions](blob/master/1-what-we-do/missions.md), running [Projects](blob/master/1-what-we-do/projects.md) to try new ideas and launching [Ventures](blob/master/1-what-we-do/ventures.md) to have impact at scale.
+We address [Grand Challenges](1-what-we-do/challenges.md) in the world by taking on [Missions](1-what-we-do/missions.md), running [Projects](1-what-we-do/projects.md) to try new ideas and launching [Ventures](1-what-we-do/ventures.md) to have impact at scale.
 
-With do all of this using highly collaborative, optimised, efficient (and open source) [Way of Working](tree/master/3-how-we-work/).
+With do all of this using highly collaborative, optimised, efficient (and open source) [Way of Working](3-how-we-work/).
 
-We provide [Innovation Services](blob/master/1-what-we-do/services.md) using these same methodologies to enhance other organisations' abilities to rapidly innovate.
+We provide [Innovation Services](1-what-we-do/services.md) using these same methodologies to enhance other organisations' abilities to rapidly innovate.
 
-Read about our [Structure](tree/master/2-our-structure/) and the [Tools we use](tree/master/4-tools/).
+Read about our [Structure](2-our-structure/) and the [Tools we use](4-tools/).
 
 Join us!
 
