@@ -1,1 +1,3 @@
-Values and Founding Principles
+# Values and Founding Principles
+
+TODO: Describe Values and Founding Principles

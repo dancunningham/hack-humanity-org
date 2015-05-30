@@ -1,4 +1,4 @@
-# Hack Humanity
+# Hack Humanity - our organisational scaffolding
 
 This is an experiment, inspired by and following the example of [Loomio](https://github.com/loomio/loomio-org/wiki) to see if we can open-source everything about our organisation.
 
